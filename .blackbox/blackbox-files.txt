@@ -1,2 +1,3 @@
 blackbox-test.md
 blackbox-test2.md
+blackbox-test3.md
